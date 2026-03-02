@@ -1,5 +1,5 @@
 # ZZZ Builder
-https://lynom.github.io/zzz-builder/
+https://lynomi.github.io/zzz-builder/
 
 A tool that takes your agents and shows their best teams for Shiyu Defense/Deadly Assault
 
